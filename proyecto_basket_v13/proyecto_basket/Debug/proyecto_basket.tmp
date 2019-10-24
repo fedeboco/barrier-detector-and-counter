@@ -1,0 +1,218 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\config.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\M328PDEF.INC</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\ISR_ir_disparado_l.asm</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\blink_n_buzz.asm</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\delay_blink.asm</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_LOCAL.asm</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_LOCAL.s</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_VISITANTE.asm</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_VISITANTE.s</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\guardar_ram_v2.asm</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\ISR_ir_disparado_v.asm</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\blink_n_buzz_v.asm</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\delay_blink_v.asm</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\Funciones_UART.asm</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\M328Pdef.inc</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\set_segment.asm</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_TIMER.s</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\digit_to_segment.asm</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\SELECCION_DE_TIEMPO.asm</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\TIMER.asm</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\TIMER_delay_1s.asm</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\start_segments.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\Debug\proyecto_basket.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>proyecto_basket.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>proyecto_basket.map</FILE>
+  <FILE>proyecto_basket.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <CONFIG><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\config.inc</FILE><LINE>28</LINE></CONFIG>
+  <IR_DISPARADO_ISR><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\ISR_ir_disparado_l.asm</FILE><LINE>6</LINE></IR_DISPARADO_ISR>
+  <IR_DISPARADO_ISR_V><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\ISR_ir_disparado_v.asm</FILE><LINE>3</LINE></IR_DISPARADO_ISR_V>
+  <UPDATE_SCORE_LOCAL><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_LOCAL.asm</FILE><LINE>3</LINE></UPDATE_SCORE_LOCAL>
+  <UPDATE_SCORE_VISITANTE><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_VISITANTE.asm</FILE><LINE>3</LINE></UPDATE_SCORE_VISITANTE>
+  <MAIN><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\main.asm</FILE><LINE>10</LINE></MAIN>
+  <DELAY><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\delay_blink.asm</FILE><LINE>1</LINE></DELAY>
+  <LOOP1><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\delay_blink.asm</FILE><LINE>10</LINE></LOOP1>
+  <BLINK_N_BUZZ><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\blink_n_buzz.asm</FILE><LINE>5</LINE></BLINK_N_BUZZ>
+  <KEEP_BLINKING><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\blink_n_buzz.asm</FILE><LINE>12</LINE></KEEP_BLINKING>
+  <BUZZ><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\blink_n_buzz.asm</FILE><LINE>32</LINE></BUZZ>
+  <BUZZ_GOES_ON><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\blink_n_buzz.asm</FILE><LINE>37</LINE></BUZZ_GOES_ON>
+  <BUZZ_GOES_OFF><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\blink_n_buzz.asm</FILE><LINE>41</LINE></BUZZ_GOES_OFF>
+  <WRITE_BYTE_LOCAL><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_LOCAL.s</FILE><LINE>11</LINE></WRITE_BYTE_LOCAL>
+  <L_CLK_LOW><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_LOCAL.s</FILE><LINE>19</LINE></L_CLK_LOW>
+  <L_BIT_DELAY><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_LOCAL.s</FILE><LINE>75</LINE></L_BIT_DELAY>
+  <L_SETEAR_BIT><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_LOCAL.s</FILE><LINE>23</LINE></L_SETEAR_BIT>
+  <L_BIT1><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_LOCAL.s</FILE><LINE>34</LINE></L_BIT1>
+  <L_BIT0><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_LOCAL.s</FILE><LINE>30</LINE></L_BIT0>
+  <L_CLK_HIGH><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_LOCAL.s</FILE><LINE>37</LINE></L_CLK_HIGH>
+  <L_BYTE_END><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_LOCAL.s</FILE><LINE>42</LINE></L_BYTE_END>
+  <L_ACK><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_LOCAL.s</FILE><LINE>46</LINE></L_ACK>
+  <L_FIN><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_LOCAL.s</FILE><LINE>64</LINE></L_FIN>
+  <L_L1><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_LOCAL.s</FILE><LINE>78</LINE></L_L1>
+  <L_START><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_LOCAL.s</FILE><LINE>83</LINE></L_START>
+  <L_STOP><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_LOCAL.s</FILE><LINE>88</LINE></L_STOP>
+  <BIT_DELAY><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_TIMER.s</FILE><LINE>75</LINE></BIT_DELAY>
+  <DIVIDIR_DIGITOS><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_LOCAL.asm</FILE><LINE>17</LINE></DIVIDIR_DIGITOS>
+  <PTS_SET_COMMAND11><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_LOCAL.asm</FILE><LINE>33</LINE></PTS_SET_COMMAND11>
+  <PTS_SET_COMMAND21><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_LOCAL.asm</FILE><LINE>40</LINE></PTS_SET_COMMAND21>
+  <PTS_SET_DATA1><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_LOCAL.asm</FILE><LINE>45</LINE></PTS_SET_DATA1>
+  <DIGIT_TO_SEGMENT><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\digit_to_segment.asm</FILE><LINE>29</LINE></DIGIT_TO_SEGMENT>
+  <PTS_SET_COMMAND22><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_LOCAL.asm</FILE><LINE>52</LINE></PTS_SET_COMMAND22>
+  <PTS_SET_DATA2><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_LOCAL.asm</FILE><LINE>56</LINE></PTS_SET_DATA2>
+  <PTS_SET_COMMAND23><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_LOCAL.asm</FILE><LINE>63</LINE></PTS_SET_COMMAND23>
+  <PTS_SET_DATA3><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_LOCAL.asm</FILE><LINE>67</LINE></PTS_SET_DATA3>
+  <PTS_SET_COMMAND24><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_LOCAL.asm</FILE><LINE>74</LINE></PTS_SET_COMMAND24>
+  <PTS_SET_DATA4><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_LOCAL.asm</FILE><LINE>78</LINE></PTS_SET_DATA4>
+  <PTS_SET_COMMAND3><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_LOCAL.asm</FILE><LINE>85</LINE></PTS_SET_COMMAND3>
+  <WRITE_BYTE_VISITANTE><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_VISITANTE.s</FILE><LINE>11</LINE></WRITE_BYTE_VISITANTE>
+  <V_CLK_LOW><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_VISITANTE.s</FILE><LINE>19</LINE></V_CLK_LOW>
+  <V_BIT_DELAY><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_VISITANTE.s</FILE><LINE>75</LINE></V_BIT_DELAY>
+  <V_SETEAR_BIT><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_VISITANTE.s</FILE><LINE>23</LINE></V_SETEAR_BIT>
+  <V_BIT1><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_VISITANTE.s</FILE><LINE>34</LINE></V_BIT1>
+  <V_BIT0><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_VISITANTE.s</FILE><LINE>30</LINE></V_BIT0>
+  <V_CLK_HIGH><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_VISITANTE.s</FILE><LINE>37</LINE></V_CLK_HIGH>
+  <V_BYTE_END><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_VISITANTE.s</FILE><LINE>42</LINE></V_BYTE_END>
+  <V_ACK><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_VISITANTE.s</FILE><LINE>46</LINE></V_ACK>
+  <V_FIN><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_VISITANTE.s</FILE><LINE>64</LINE></V_FIN>
+  <V_L1><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_VISITANTE.s</FILE><LINE>78</LINE></V_L1>
+  <V_START><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_VISITANTE.s</FILE><LINE>83</LINE></V_START>
+  <V_STOP><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_VISITANTE.s</FILE><LINE>88</LINE></V_STOP>
+  <V_DIVIDIR_DIGITOS><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_VISITANTE.asm</FILE><LINE>17</LINE></V_DIVIDIR_DIGITOS>
+  <V_SET_COMMAND11><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_VISITANTE.asm</FILE><LINE>33</LINE></V_SET_COMMAND11>
+  <V_SET_COMMAND21><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_VISITANTE.asm</FILE><LINE>40</LINE></V_SET_COMMAND21>
+  <V_SET_DATA1><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_VISITANTE.asm</FILE><LINE>45</LINE></V_SET_DATA1>
+  <V_SET_COMMAND22><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_VISITANTE.asm</FILE><LINE>52</LINE></V_SET_COMMAND22>
+  <V_SET_DATA2><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_VISITANTE.asm</FILE><LINE>56</LINE></V_SET_DATA2>
+  <V_SET_COMMAND23><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_VISITANTE.asm</FILE><LINE>63</LINE></V_SET_COMMAND23>
+  <V_SET_DATA3><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_VISITANTE.asm</FILE><LINE>67</LINE></V_SET_DATA3>
+  <V_SET_COMMAND24><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_VISITANTE.asm</FILE><LINE>74</LINE></V_SET_COMMAND24>
+  <V_SET_DATA4><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_VISITANTE.asm</FILE><LINE>78</LINE></V_SET_DATA4>
+  <V_SET_COMMAND3><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\update_score_VISITANTE.asm</FILE><LINE>85</LINE></V_SET_COMMAND3>
+  <DEC_TO_HEX><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE><LINE>3</LINE></DEC_TO_HEX>
+  <N1><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE><LINE>16</LINE></N1>
+  <GUARDAR_CONV><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE><LINE>34</LINE></GUARDAR_CONV>
+  <N2><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE><LINE>24</LINE></N2>
+  <N3><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE><LINE>29</LINE></N3>
+  <HEX_TO_ASCII><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE><LINE>54</LINE></HEX_TO_ASCII>
+  <fin_conv><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE><LINE>45</LINE></fin_conv>
+  <DEC_ES_0><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE><LINE>76</LINE></DEC_ES_0>
+  <DEC_ES_1><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE><LINE>79</LINE></DEC_ES_1>
+  <DEC_ES_2><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE><LINE>82</LINE></DEC_ES_2>
+  <DEC_ES_3><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE><LINE>85</LINE></DEC_ES_3>
+  <DEC_ES_4><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE><LINE>88</LINE></DEC_ES_4>
+  <DEC_ES_5><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE><LINE>91</LINE></DEC_ES_5>
+  <DEC_ES_6><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE><LINE>94</LINE></DEC_ES_6>
+  <DEC_ES_7><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE><LINE>97</LINE></DEC_ES_7>
+  <DEC_ES_8><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE><LINE>100</LINE></DEC_ES_8>
+  <DEC_ES_9><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\decimal_to_hex.asm</FILE><LINE>103</LINE></DEC_ES_9>
+  <GUARDAR_EN_RAM><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\guardar_ram_v2.asm</FILE><LINE>3</LINE></GUARDAR_EN_RAM>
+  <FIN_ISR><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\ISR_ir_disparado_l.asm</FILE><LINE>25</LINE></FIN_ISR>
+  <DELAY_V><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\delay_blink_v.asm</FILE><LINE>1</LINE></DELAY_V>
+  <LOOP1_V><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\delay_blink_v.asm</FILE><LINE>10</LINE></LOOP1_V>
+  <BLINK_N_BUZZ_V><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\blink_n_buzz_v.asm</FILE><LINE>5</LINE></BLINK_N_BUZZ_V>
+  <KEEP_BLINKING_V><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\blink_n_buzz_v.asm</FILE><LINE>12</LINE></KEEP_BLINKING_V>
+  <BUZZ_V><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\blink_n_buzz_v.asm</FILE><LINE>32</LINE></BUZZ_V>
+  <BUZZ_GOES_ON_V><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\blink_n_buzz_v.asm</FILE><LINE>37</LINE></BUZZ_GOES_ON_V>
+  <BUZZ_GOES_OFF_V><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\blink_n_buzz_v.asm</FILE><LINE>41</LINE></BUZZ_GOES_OFF_V>
+  <FIN_ISR_V><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\ISR_ir_disparado_v.asm</FILE><LINE>22</LINE></FIN_ISR_V>
+  <USART_config><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\Funciones_UART.asm</FILE><LINE>4</LINE></USART_config>
+  <USART_transmitir><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\Funciones_UART.asm</FILE><LINE>33</LINE></USART_transmitir>
+  <SIGUE><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\Funciones_UART.asm</FILE><LINE>42</LINE></SIGUE>
+  <USART_recibir><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\Funciones_UART.asm</FILE><LINE>62</LINE></USART_recibir>
+  <SALIR><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\Funciones_UART.asm</FILE><LINE>117</LINE></SALIR>
+  <INC_VISITANTE><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\Funciones_UART.asm</FILE><LINE>91</LINE></INC_VISITANTE>
+  <INC_LOCAL><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\Funciones_UART.asm</FILE><LINE>96</LINE></INC_LOCAL>
+  <DEC_VISITANTE><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\Funciones_UART.asm</FILE><LINE>101</LINE></DEC_VISITANTE>
+  <DEC_LOCAL><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\Funciones_UART.asm</FILE><LINE>109</LINE></DEC_LOCAL>
+  <DELAY_TRANSMITIR><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\Funciones_UART.asm</FILE><LINE>126</LINE></DELAY_TRANSMITIR>
+  <L21><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\Funciones_UART.asm</FILE><LINE>133</LINE></L21>
+  <WRITE_BYTE><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_TIMER.s</FILE><LINE>11</LINE></WRITE_BYTE>
+  <CLK_LOW><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_TIMER.s</FILE><LINE>19</LINE></CLK_LOW>
+  <SETEAR_BIT><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_TIMER.s</FILE><LINE>23</LINE></SETEAR_BIT>
+  <BIT1><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_TIMER.s</FILE><LINE>34</LINE></BIT1>
+  <BIT0><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_TIMER.s</FILE><LINE>30</LINE></BIT0>
+  <CLK_HIGH><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_TIMER.s</FILE><LINE>37</LINE></CLK_HIGH>
+  <BYTE_END><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_TIMER.s</FILE><LINE>42</LINE></BYTE_END>
+  <ACK><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_TIMER.s</FILE><LINE>46</LINE></ACK>
+  <FIN><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_TIMER.s</FILE><LINE>64</LINE></FIN>
+  <L1><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_TIMER.s</FILE><LINE>78</LINE></L1>
+  <START><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_TIMER.s</FILE><LINE>83</LINE></START>
+  <STOP><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\write_byte_TIMER.s</FILE><LINE>88</LINE></STOP>
+  <ES_9><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\digit_to_segment.asm</FILE><LINE>59</LINE></ES_9>
+  <ES_8><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\digit_to_segment.asm</FILE><LINE>62</LINE></ES_8>
+  <ES_7><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\digit_to_segment.asm</FILE><LINE>65</LINE></ES_7>
+  <ES_6><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\digit_to_segment.asm</FILE><LINE>68</LINE></ES_6>
+  <ES_5><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\digit_to_segment.asm</FILE><LINE>71</LINE></ES_5>
+  <ES_4><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\digit_to_segment.asm</FILE><LINE>74</LINE></ES_4>
+  <ES_3><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\digit_to_segment.asm</FILE><LINE>77</LINE></ES_3>
+  <ES_2><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\digit_to_segment.asm</FILE><LINE>80</LINE></ES_2>
+  <ES_1><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\digit_to_segment.asm</FILE><LINE>83</LINE></ES_1>
+  <ES_0><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\digit_to_segment.asm</FILE><LINE>86</LINE></ES_0>
+  <SELECCION_TIEMPO><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\SELECCION_DE_TIEMPO.asm</FILE><LINE>1</LINE></SELECCION_TIEMPO>
+  <FUNCION_UART_RECIBE_TIEMPO><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\SELECCION_DE_TIEMPO.asm</FILE><LINE>20</LINE></FUNCION_UART_RECIBE_TIEMPO>
+  <NO_OPCION><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\SELECCION_DE_TIEMPO.asm</FILE><LINE>22</LINE></NO_OPCION>
+  <T_ES_0><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\SELECCION_DE_TIEMPO.asm</FILE><LINE>53</LINE></T_ES_0>
+  <T_ES_1><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\SELECCION_DE_TIEMPO.asm</FILE><LINE>58</LINE></T_ES_1>
+  <T_ES_2><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\SELECCION_DE_TIEMPO.asm</FILE><LINE>63</LINE></T_ES_2>
+  <T_ES_3><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\SELECCION_DE_TIEMPO.asm</FILE><LINE>68</LINE></T_ES_3>
+  <T_ES_4><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\SELECCION_DE_TIEMPO.asm</FILE><LINE>72</LINE></T_ES_4>
+  <T_ES_5><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\SELECCION_DE_TIEMPO.asm</FILE><LINE>76</LINE></T_ES_5>
+  <T_ES_6><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\SELECCION_DE_TIEMPO.asm</FILE><LINE>80</LINE></T_ES_6>
+  <T_ES_7><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\SELECCION_DE_TIEMPO.asm</FILE><LINE>84</LINE></T_ES_7>
+  <T_ES_8><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\SELECCION_DE_TIEMPO.asm</FILE><LINE>88</LINE></T_ES_8>
+  <EXIT><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\SELECCION_DE_TIEMPO.asm</FILE><LINE>48</LINE></EXIT>
+  <SET_SEGMENT><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\set_segment.asm</FILE><LINE>5</LINE></SET_SEGMENT>
+  <DIVIDIR_DIGITOS_SEG><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\set_segment.asm</FILE><LINE>22</LINE></DIVIDIR_DIGITOS_SEG>
+  <SEGS><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\set_segment.asm</FILE><LINE>35</LINE></SEGS>
+  <DIVIDIR_DIGITOS_MIN><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\set_segment.asm</FILE><LINE>49</LINE></DIVIDIR_DIGITOS_MIN>
+  <MINS><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\set_segment.asm</FILE><LINE>59</LINE></MINS>
+  <SET_COMMAND11><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\set_segment.asm</FILE><LINE>64</LINE></SET_COMMAND11>
+  <SET_COMMAND21><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\set_segment.asm</FILE><LINE>71</LINE></SET_COMMAND21>
+  <SET_DATA1><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\set_segment.asm</FILE><LINE>76</LINE></SET_DATA1>
+  <SET_COMMAND22><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\set_segment.asm</FILE><LINE>83</LINE></SET_COMMAND22>
+  <SET_DATA2><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\set_segment.asm</FILE><LINE>87</LINE></SET_DATA2>
+  <SET_COMMAND23><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\set_segment.asm</FILE><LINE>95</LINE></SET_COMMAND23>
+  <SET_DATA3><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\set_segment.asm</FILE><LINE>99</LINE></SET_DATA3>
+  <SET_COMMAND24><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\set_segment.asm</FILE><LINE>106</LINE></SET_COMMAND24>
+  <SET_DATA4><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\set_segment.asm</FILE><LINE>110</LINE></SET_DATA4>
+  <SET_COMMAND3><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\set_segment.asm</FILE><LINE>117</LINE></SET_COMMAND3>
+  <DELAY_1s><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\TIMER_delay_1s.asm</FILE><LINE>1</LINE></DELAY_1s>
+  <ACA><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\TIMER_delay_1s.asm</FILE><LINE>13</LINE></ACA>
+  <TIMER_CONTADOR><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\TIMER.asm</FILE><LINE>3</LINE></TIMER_CONTADOR>
+  <INC_SEGUNDO><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\TIMER.asm</FILE><LINE>15</LINE></INC_SEGUNDO>
+  <INC_MINUTO><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\TIMER.asm</FILE><LINE>25</LINE></INC_MINUTO>
+  <START_SEGMENTS><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\start_segments.asm</FILE><LINE>1</LINE></START_SEGMENTS>
+  <SSET_COMMAND11><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\start_segments.asm</FILE><LINE>14</LINE></SSET_COMMAND11>
+  <SSET_COMMAND21><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\start_segments.asm</FILE><LINE>21</LINE></SSET_COMMAND21>
+  <SSET_DATA1><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\start_segments.asm</FILE><LINE>26</LINE></SSET_DATA1>
+  <SSET_COMMAND22><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\start_segments.asm</FILE><LINE>32</LINE></SSET_COMMAND22>
+  <SSET_DATA2><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\start_segments.asm</FILE><LINE>36</LINE></SSET_DATA2>
+  <SSET_COMMAND23><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\start_segments.asm</FILE><LINE>43</LINE></SSET_COMMAND23>
+  <SSET_DATA3><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\start_segments.asm</FILE><LINE>47</LINE></SSET_DATA3>
+  <SSET_COMMAND24><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\start_segments.asm</FILE><LINE>53</LINE></SSET_COMMAND24>
+  <SSET_DATA4><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\start_segments.asm</FILE><LINE>57</LINE></SSET_DATA4>
+  <SSET_COMMAND3><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\start_segments.asm</FILE><LINE>63</LINE></SSET_COMMAND3>
+  <REINICIAR_PARTIDO><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\main.asm</FILE><LINE>23</LINE></REINICIAR_PARTIDO>
+  <SI_REINICIAR><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket_v13\proyecto_basket\main.asm</FILE><LINE>36</LINE></SI_REINICIAR>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\reloj\reloj\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\reloj\reloj\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\M328pdef.inc</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\reloj\reloj\TIMER_delay_1s.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\reloj\reloj\Debug\reloj.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>reloj.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>reloj.map</FILE>
+  <FILE>reloj.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <DELAY_1s><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\reloj\reloj\TIMER_delay_1s.asm</FILE><LINE>1</LINE></DELAY_1s>
+  <ACA><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\reloj\reloj\TIMER_delay_1s.asm</FILE><LINE>13</LINE></ACA>
+  <inicio><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\reloj\reloj\main.asm</FILE><LINE>10</LINE></inicio>
+  <timer><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\reloj\reloj\main.asm</FILE><LINE>17</LINE></timer>
+  <fin><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\reloj\reloj\main.asm</FILE><LINE>15</LINE></fin>
+  <INC_SEGUNDO><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\reloj\reloj\main.asm</FILE><LINE>24</LINE></INC_SEGUNDO>
+  <INC_MINUTO><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\reloj\reloj\main.asm</FILE><LINE>32</LINE></INC_MINUTO>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\config.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\M328PDEF.INC</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\ISR_ir_disparado.asm</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\blink_n_buzz.asm</FILE>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\delay_blink.asm</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\M328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\Debug\proyecto_basket.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>proyecto_basket.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>proyecto_basket.map</FILE>
+  <FILE>proyecto_basket.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <CONFIG><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\config.inc</FILE><LINE>18</LINE></CONFIG>
+  <IR_DISPARADO_ISR><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\ISR_ir_disparado.asm</FILE><LINE>3</LINE></IR_DISPARADO_ISR>
+  <MAIN><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\main.asm</FILE><LINE>5</LINE></MAIN>
+  <DELAY><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\delay_blink.asm</FILE><LINE>1</LINE></DELAY>
+  <LOOP1><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\delay_blink.asm</FILE><LINE>4</LINE></LOOP1>
+  <BLINK_N_BUZZ><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\blink_n_buzz.asm</FILE><LINE>3</LINE></BLINK_N_BUZZ>
+  <BUZZ><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\blink_n_buzz.asm</FILE><LINE>19</LINE></BUZZ>
+  <BUZZ_GOES_ON><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\blink_n_buzz.asm</FILE><LINE>24</LINE></BUZZ_GOES_ON>
+  <BUZZ_GOES_OFF><FILE>C:\Users\Usuario\Dropbox\Proyecto - Labo de Micro\proyecto_basket\proyecto_basket\blink_n_buzz.asm</FILE><LINE>28</LINE></BUZZ_GOES_OFF>
+ </LABELS>
+</ASSEMBLER_INFO>
