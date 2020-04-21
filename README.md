@@ -12,6 +12,8 @@
 * Federico Pérez Boco
 * Maximiliano Massone
 
+Project for <86.07 - Laboratorio de Microprocesadores> assignature from Electronic Engineering career at FIUBA.
+
 ## Goal
 
 * Implement an algorithm to control an ultra low-cost dual 7 segment display in assembly.
