@@ -1,4 +1,4 @@
-# 86.07 - Digital Counter Proyect
+# 86.07 - Barrier Detector and Counter with Serial Communication
 ## Team
 
 * Florencia Zuccolo
